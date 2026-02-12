@@ -1,0 +1,4 @@
+project_id = "hikfgxhqvetkdyznhdct"
+
+[functions.sync-buyer]
+verify_jwt = false
